@@ -7,7 +7,7 @@ NOTE :
 
 # Short Version
   * Off by one vulnerability, null byte poison.
-  * Populate Tcache bin and reuse memory to leak heap address.
+  * Populate cache bin and reuse memory to leak heap address.
   * Exhaust cache bin to force unsorted bin to leak libc addresses.
   * Use null byte overwrite to free and coalesce already used memory.
   * Allocate overlapping chunks and use cache poisoning to get arbitary pointer allocated.
