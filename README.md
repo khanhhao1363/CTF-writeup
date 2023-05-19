@@ -1,7 +1,7 @@
-# ghost-diary - Points: 500
+# ghost-diary 
 This challenge was released and available to everyone without having to unlock any of the previous challenges.
 
-Attention :
+NOTE :
 
 > It launched without prerequisite problems due to an error with bundling. If you are not experienced with binary exploitation I would recommend saving this for later.
 
