@@ -1,0 +1,4 @@
+# TLDR;
+I fumbled my way through the UPX unpacking, and used Ghidras emulation capabilities to grab the flag.
+
+## Initial overview
